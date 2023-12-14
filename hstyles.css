@@ -1,0 +1,145 @@
+/* body{ 
+    font-family: Muli, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    background-color: rgb(70, 58, 232); 
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.HYUs0Oy3STgznpitddU1aAHaHa&pid=Api&P=0&h=180);
+    color: rgb(220, 227, 232);
+  } 
+  a{ 
+    color: rgb(100, 209, 231);
+  } 
+  a:visited{ 
+    color: rgb(174, 168, 168);
+  } 
+  a:hover{ 
+    font-size: 110%;
+  } 
+  img{ 
+    display: block; 
+    width: 50%;  
+    border: solid white;
+    padding: 3px; 
+    margin: auto;
+  } 
+  .riz{ 
+    font-family: chiller, 'comic sans', wingdings, engravers, serif; 
+    font-size: xx-large; 
+    color: chartreuse; 
+    text-decoration:double; 
+    background-color: rgb(132, 130, 126); 
+    border: solid orange 5px; 
+    border-bottom: none;
+  } 
+  .riz:hover{ 
+    display: block;
+    text-align: center; 
+    font-size: 500%;
+  } 
+
+  .common{ 
+    /* border: 4px solid fuchsia;  */
+    /* background-color: rgba(255, 200, 0, 0.553);  */
+    /* padding: 5px; 
+    position: absolute; 
+
+  } 
+  .footer{ 
+    position: fixed;
+    background-color: black; 
+    border-top: 1px white solid;
+    bottom: 0px; 
+    width: 100%; 
+    text-align: center; 
+    font-style: italic; 
+  } 
+
+  
+
+
+
+  .mainbody{ 
+    top: 100px; 
+    width: 100%; 
+    text-align: center;
+  }  */ 
+  
+  body{ 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(103, 100, 102); 
+} 
+a{ 
+    color:lightpink; font-style: bold;
+    
+  } 
+  a:visited{ 
+    color:black;
+  } 
+  a:hover{ 
+    font-size: 110%; 
+    
+  }   
+
+  img{ 
+  display: block; 
+  width: 30%;  
+  border: solid white;
+  padding: 3px; 
+  margin: auto;
+}  
+.riz:hover{ 
+    display: block;
+    text-align: center; 
+    font-size: 500%; 
+
+  }  
+ 
+.footer{ 
+  position: fixed;
+  background-color: black; 
+  border-top: 1px white solid;
+  bottom: 0px; 
+  width: 100%; 
+  text-align: center; 
+  font-style: italic; 
+  color: white;
+}  
+.header{ 
+    font-size: xx-large; 
+    font-weight: bolder; 
+    font-family: 'Times New Roman', Times, serif; 
+    width: 100%; 
+    text-align: center; 
+} 
+    
+.mainbody{ 
+        top: 100px; 
+        width: 100%; 
+        text-align: center;
+      } 
+
+.nav{ 
+        position: relative; 
+        float: left; 
+        z-index: 1; 
+}
+
+
+.common{ 
+    padding: 5px; 
+    position: absolute; 
+    text-align: center;
+
+  }  
+
+  .tableauPlaceholder{ 
+    margin:auto
+  } 
+
+  .list{ 
+     margin-left: 475px; margin-top: 1px; margin-bottom: 10px; 
+     text-align: left;   
+     justify-content: center;
+     align-items: center; 
+     color: lightpink;
+  }
+
+      
